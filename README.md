@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Biagio Ruotolo</h1>
-<h3 align="center">A passionate frontend developer from Italy</h3>
+<h3 align="center">A passionate Senior Frontend Developer from Italy</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=biagruot&label=Profile%20views&color=0e75b6&style=flat" alt="biagruot" /> </p>
 
-- 🔭 I’m currently working at [About You](https://www.aboutyou.de)
+- 🔭 I’m currently working at [Graphaware](https://graphaware.com)
 
 - 👨‍💻 All of my projects are available at [https://github.com/biagruot?tab=repositories](https://github.com/biagruot?tab=repositories)
 
-- 💬 Ask me about **Angular, React, Typescript, CSS**
+- 💬 Ask me about **Angular, React, Vue, Typescript, CSS, Accessibility, WCAG, UI/UX, Cypress, Playwright**
 
-- 📫 How to reach me **biagioruotolo@gmail.com**
+- 📫 How to reach me **info@biagioruotolo.it**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

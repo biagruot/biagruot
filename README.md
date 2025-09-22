@@ -13,11 +13,6 @@ I’m a Senior Frontend Developer with **8+ years of experience** creating scala
 By day, I build **mission-critical intelligence software** at [GraphAware](https://graphaware.com) that supports law enforcement agencies in solving complex cases.  
 By night, I run **automated online businesses** that deliver digital products with minimal human intervention — from order to delivery.
 
-What I love most:  
-- Turning **complex workflows** into clean, accessible UIs  
-- Creating **systems that scale profitably**  
-- Combining **business insight** with **engineering**
-
 ---
 
 ### 🛠 Tech I Work With Daily

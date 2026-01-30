@@ -1,32 +1,27 @@
-<h1 align="center">👋 Hey, I’m Biagio</h1>
-<h3 align="center">Senior Frontend Developer · Entrepreneur</h3>
+# Hey, I'm Biagio 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=biagruot&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
-</p>
+Frontend developer. Can't stop building things.
 
----
+## What I Do
 
-### 🚀 About Me
-I’m a Senior Frontend Developer with **8+ years of experience** creating scalable web applications, high-performing e-commerce platforms, and fully automated systems.
+By day I work on a graph-powered intelligence platform at [GraphAware](https://graphaware.com).
 
-By day, I build **mission-critical intelligence software** at [GraphAware](https://graphaware.com) that supports law enforcement agencies in solving complex cases.  
-By night, I run **automated online businesses** that deliver digital products with minimal human intervention — from order to delivery.
+By night I ship my own stuff — voice apps, ecommerce, AI products. Some made money, some I killed. All shipped.
 
----
+## Open Source
 
-### 🛠 Tech I Work With Daily
-**Frontend:** React · Vue.js · Angular · TypeScript · SCSS · Accessibility (WCAG)  
-**Backend:** Node.js · PHP · GraphQL · REST · Firebase · PostgreSQL  
-**DevOps & Tools:** AWS · Docker · Cypress · Playwright · Jest · Figma
+🔧 **[AgentDepot.dev](https://agentdepot.dev)** — Directory of AI tools: MCP servers, plugins, skills, templates.
 
----
+Most of my work lives in private repos. This is where I build in the open.
 
-### 📫 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&style=for-the-badge)](https://linkedin.com/in/biagioruotolo)  
-[![Email](https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=for-the-badge)](mailto:info@biagioruotolo.it)
+## Tech
 
----
+**Frontend:** Vue.js, React, Angular, TypeScript, D3.js  
+**Backend:** Node.js, GraphQL, Neo4j, PostgreSQL  
+**AI & Automation:** Claude API, prompt engineering, MCP servers  
+**Infra:** AWS, Docker, GitHub Actions
 
-> “Code is the easy part. The magic is in knowing **what to build**, **why it matters**, and making it work beautifully at scale.”
+## Let's Talk
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://linkedin.com/in/biagioruotolo)
+[![Email](https://img.shields.io/badge/Email-red?logo=gmail&style=flat-square)](mailto:hello@biagioruotolo.it)

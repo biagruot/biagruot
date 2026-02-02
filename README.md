@@ -6,7 +6,7 @@ Frontend developer. Can't stop building things.
 
 By day I work on a graph-powered intelligence platform at [GraphAware](https://graphaware.com).
 
-By night I ship my own stuff — voice apps, ecommerce, AI products. Some made money, some I killed. All shipped.
+By night I ship my own stuff: voice apps, ecommerce, AI products. Some still live, some I killed. All shipped.
 
 ## Open Source
 

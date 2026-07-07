@@ -1,6 +1,6 @@
 ### Hey, I'm Biagio 👋
 
-#### Full-stack engineer by day ☼ shipping my own products by night ☾
+#### Software engineer by day ☼ shipping my own products by night ☾
 
 Building in the open at [AgentDepot](https://agentdepot.dev) — a directory of AI tooling;<br>
 Other work is closed-source; currently live: [Drift](https://driftsound.app), a macOS app for ambient soundscapes;<br>
